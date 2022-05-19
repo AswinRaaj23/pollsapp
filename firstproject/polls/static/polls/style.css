@@ -1,0 +1,22 @@
+li a {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+}
+
+body {
+    background: #ffffff url("images/background.jpg") no-repeat;
+}
+
+h1{
+    color: red;
+    font-size: larger;
+}
+
+ul{
+    color: blueviolet;
+}
+
+a{
+    color: green;
+}
